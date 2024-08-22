@@ -406,21 +406,6 @@
         "contactPhone": "555-555-5555"
       }
     },
-
-    {
-      "id": 30,
-      "title": "Full-Stack Developer Internship",
-      "type": "Intern",
-      "description": "Exciting opportunity for a Full-Stack Developer Intern to join our team in the vibrant city of Las Vegas, NV. We are seeking a talented and motivated individual with experience in web development using modern technologies.",
-      "location": "Las Vegas, NV",
-      "salary": "$20/hr",
-      "company": {
-        "name": "Neon Tech",
-        "description": "Neon Tech is a rapidly growing technology company specializing in web development and digital transformation. We offer a dynamic and collaborative work environment where your ideas and contributions are valued.",
-        "contactEmail": "contact@neontech.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
     {
       "id": 31,
       "title": "Part-Time Angular Developer",
@@ -450,18 +435,18 @@
       }
     },
     {
-      "id": 33,
-      "title": "React Intern",
-      "type": "Intern",
-      "description": "Exciting opportunity for a React Intern to join our team in the beautiful city of Honolulu, HI. We are seeking a talented and motivated individual to gain hands-on experience in front-end web development.",
+      "title": "React Fullstact5555",
+      "type": "Full-Time",
       "location": "Honolulu, HI",
-      "salary": "$20/hr",
+      "description": "Exciting opportunity for a React Intern to join our team in the beautiful city of Honolulu, HI. We are seeking a talented and motivated individual to gain hands-on experience in front-end web development.",
+      "salary": "$175K - $200K",
       "company": {
         "name": "Aloha Tech",
         "description": "Aloha Tech is a leading technology company focused on delivering innovative digital solutions to our clients. We offer a dynamic and collaborative work environment with opportunities for professional growth.",
         "contactEmail": "contact@alohatech.com",
         "contactPhone": "555-555-5555"
-      }
+      },
+      "id": 33
     },
     {
       "id": 34,
